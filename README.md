@@ -23,7 +23,7 @@ Além disso todo código foi documentado usando a função de Javadoc
 
 
 ## Publicação
-https://github.com/GiovaniCh7/CalculadoraTestes
+https://github.com/GiovaniCh7/CalculadoraDocumentacao
 
 
 ## Última Atualização -> 06/11/2023
